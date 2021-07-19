@@ -6,13 +6,16 @@
 #    By: rbourgea <rbourgea@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/07/13 12:31:55 by rbourgea          #+#    #+#              #
-#    Updated: 2021/07/15 21:53:03 by rbourgea         ###   ########.fr        #
+#    Updated: 2021/07/17 13:18:40 by rbourgea         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = 		Bureaucrat
 
-SRCS =		Form.cpp \
+SRCS =		ShrubberyCreationForm.cpp \
+			RobotomyRequestForm.cpp \
+			PresidentialPardonForm.cpp \
+			Form.cpp \
 			Bureaucrat.cpp \
 			main.cpp
 
